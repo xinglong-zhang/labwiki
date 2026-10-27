@@ -25,14 +25,17 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   * - 10-27-2026
-     - Tingting Liu
-     - Journal club
    * - 11-03-2026
      - All members
      - Progress Update
    * - 11-10-2026
      - Jiayi Du
+     - Journal club
+   * - 11-17-2026
+     - All members
+     - Progress Update
+   * - 11-24-2026
+     - Michael Li
      - Journal club
 
 
