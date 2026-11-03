@@ -29,7 +29,7 @@ Upcoming Schedule:
      - All members
      - Progress Update
    * - 11-10-2026
-     - Jiayi Du
+     - Myraa Khemlani
      - Journal club
    * - 11-17-2026
      - All members
