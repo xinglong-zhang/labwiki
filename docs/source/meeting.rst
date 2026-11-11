@@ -25,17 +25,17 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   * - 11-03-2026
-     - All members
-     - Progress Update
-   * - 11-10-2026
-     - Myraa Khemlani
-     - Journal club
    * - 11-17-2026
      - All members
      - Progress Update
    * - 11-24-2026
-     - Michael Li
+     - Jiayi Du
+     - Journal club
+   * - 12-01-2026
+     - All members
+     - Progress Update
+   * - 12-08-2026
+     - Zihan Li
      - Journal club
 
 
