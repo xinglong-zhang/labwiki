@@ -25,9 +25,6 @@ Upcoming Schedule:
    * - **Date**
      - **Presenter**
      - **Details**
-   * - 11-24-2026
-     - Jiayi Du
-     - Journal club
    * - 12-01-2026
      - All members
      - Progress Update
@@ -37,6 +34,9 @@ Upcoming Schedule:
    * - 12-15-2026
      - All members
      - Progress Update
+   * - 12-22-2026
+     - Jingyi Liu
+     - Journal club
 
 
 Feel free to read the paper in advance. Please contact Zihan regarding matters related to group meetings.
